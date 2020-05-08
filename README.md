@@ -15,7 +15,7 @@
 ## 页面目录
 After creation, your project should look like this:
 
-```
+
 ## 页面效果
 ##### 页面显示
 ![screenshot](./screenshot/1.png)
